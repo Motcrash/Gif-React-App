@@ -1,6 +1,6 @@
 # React-Course-Repository
 
-Beginner Reactor Course Repository
+Beginner React Course Repository
 
-Teacher: Fernando herrera
-Trainee: Gerardo Delgado
+* Teacher: Fernando herrera
+* Student: Gerardo Delgado
