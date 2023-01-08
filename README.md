@@ -3,4 +3,4 @@
 Beginner Reactor Course Repository
 
 Teacher: Fernando herrera
-Trainee: Gerardo Delgado
+Student: Gerardo Delgado
