@@ -2,5 +2,5 @@
 
 Beginner Reactor Course Repository
 
-Teacher: Fernando herrera
-Student: Gerardo Delgado
+* Teacher: Fernando herrera
+* Student: Gerardo Delgado
