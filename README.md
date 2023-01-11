@@ -1,4 +1,4 @@
-# React-Course-Repository
+# Gif-React-App
 
 Beginner React Course Repository
 
